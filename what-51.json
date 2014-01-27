@@ -58,6 +58,11 @@
     ,   "link":         "http://www.w3.org/html/wg/wiki/User:Sfaulkne/main-usecases"
     }
 ,   {
+        "title":        "W3C HTML defines the body element as representing the 'content of a document'"
+    ,   "rationale":    "W3C HTML defines main as representing the 'main content' of a document."
+    ,   "type":         "auth"
+    }
+,   {
         "title":        "Obsolete table border in WHATWG HTML"
     ,   "rationale":    "The HTML WG believes that the border attribute on tables can be used to mark it as non-layout and for fallback, WHATWG disagrees."
     ,   "type":         "val"
@@ -146,4 +151,5 @@
     ,   "rationale":    "WHATWG has not deemed this necessary at this time."
     ,   "type":         "ua"
     }
+
 ]
