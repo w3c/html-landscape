@@ -1,0 +1,67 @@
+[
+    {
+        "title":        "No DOMElementMap or document.cssElementMap in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No CanvasProxy, transferControlToProxy() in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No probablySupportsContext() in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No setContext() in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No forceSpellCheck() in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No inert attribute in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No table sorting in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No menu, menuitem, contextmenu in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No allowFullScreen in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No fastSeek() in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No toDataURLHD(), toBlobHD() in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "Autocomplete limited to on|off, no inputmode in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No ImageBitmap in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+]

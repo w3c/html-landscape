@@ -1,0 +1,149 @@
+[
+    {
+        "title":        "No srcset attribute in W3C HTML"
+    ,   "rationale":    "Discussion is still ongoing about responsive image solutions."
+    ,   "type":         "ua"
+    ,   "link":         { "text": "Extension specification on the way", 
+                          "url": "http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/" }
+    }
+,   {
+        "title":        "URL allowed in link@rel in W3C HTML"
+    ,   "rationale":    "W3C has a tradition of using URLs as extensibility points."
+    ,   "type":         "val"
+    }
+,   {
+        "title":        "Disagreement as to how the term \"conforming document\" can be used in cases where \"applicable specifications\" augment or change the base HTML5"
+    ,   "rationale":    "See details in ISSUE-140."
+    ,   "type":         "op"
+    ,   "link":         "http://lists.w3.org/Archives/Public/public-html/2011Mar/0574.html"
+    }
+,   {
+        "title":        "No ping attribute in W3C HTML"
+    ,   "rationale":    "There is concern in the HTML WG as to the privacy implications of this attribute, which the WHATWG does not share."
+    ,   "type":         "ua"
+    ,   "link":         "http://lists.w3.org/Archives/Public/public-html/2010Mar/0132.html"
+    }
+,   {
+        "title":        "Obsolete hgroup in W3C HTML"
+    ,   "rationale":    "The HTML WG does not use hgroup for compound headings, the WHATWG thinks that it is the right option."
+    ,   "type":         "val"
+    ,   "link":         "http://lists.w3.org/Archives/Public/public-html-admin/2013Apr/0003.html"
+    }
+,   {
+        "title":        "Different ARIA role constraints in W3C HTML"
+    ,   "rationale":    "a11y"
+    ,   "type":         "val"
+    }
+,   {
+        "title":        "Looser MetaExtensions and microformats wikis requirements in W3C HTML"
+    ,   "rationale":    "In W3C HTML supporting values from those wikis is a may not a must."
+    ,   "type":         "val"
+    }
+,   {
+        "title":        "Different ruby models"
+    ,   "rationale":    "W3C HTML has a ruby model that the HTML WG feels corresponds to user needs based on numerous bugs and discussions; WHATWG disagrees. This affects particularly the rb and rtc elements, their parsing, and the categorisation algorithm."
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "The longdesc attribute is not obsolete in W3C HTML"
+    ,   "rationale":    "Due to successful development of the extension specification."
+    ,   "type":         "val"
+    ,   "link":         { "text": "extension specification", 
+                          "url": "http://www.w3.org/TR/html-longdesc/" }
+    }
+,   {
+        "title":        "The main element differs"
+    ,   "rationale":    "The HTML WG believes that main is only meaningful if there is only one per page, WHATWG thinks it is meaningful to have several."
+    ,   "type":         "val"
+    ,   "link":         "http://www.w3.org/html/wg/wiki/User:Sfaulkne/main-usecases"
+    }
+,   {
+        "title":        "Obsolete table border in WHATWG HTML"
+    ,   "rationale":    "The HTML WG believes that the border attribute on tables can be used to mark it as non-layout and for fallback, WHATWG disagrees."
+    ,   "type":         "val"
+    ,   "link":         "http://lists.w3.org/Archives/Public/public-html/2011Apr/0377.html"
+    }
+,   {
+        "title":        "W3C HTML has a should on section headings"
+    ,   "rationale":    "In WHATWG HTML section headings are considered typical but not required, in W3C HTML there's a 'should'."
+    ,   "type":         "val"
+    }
+,   {
+        "title":        "W3C HTML suggests using lists in nav elements"
+    ,   "rationale":    "The HTML WG considers that a list adds structure, the WHATWG finds this unnecessary."
+    ,   "type":         "auth"
+    }
+,   {
+        "title":        "W3C HTML recommends against using hN for subheadings"
+    ,   "rationale":    "The WHATWG considers it correct authoring, notably using hgroup."
+    ,   "type":         "auth"
+    ,   "link":         "http://lists.w3.org/Archives/Public/public-html-admin/2013Apr/0003.html"
+    }
+,   {
+        "title":        "WHATWG HTML recommends using h1 at all section ranks"
+    ,   "rationale":    "The HTML WG feels that this practice is problematic in practice."
+    ,   "type":         "auth"
+    ,   "link":         "https://www.w3.org/Bugs/Public/show_bug.cgi?id=21881"
+    }
+,   {
+        "title":        "Blockquote and cite differences"
+    ,   "rationale":    "The HTML WG feels that its usage of blockquote and cite match users' needs; the WHATWG feels it is the wrong design."
+    ,   "type":         "auth"
+    ,   "link":         "https://www.w3.org/Bugs/Public/show_bug.cgi?id=23175"
+    }
+,   {
+        "title":        "Different advice for image alternative text"
+    ,   "rationale":    "a11y"
+    ,   "type":         "auth"
+    ,   "link":         "http://dev.w3.org/html5/alt-techniques/"
+    }
+,   {
+        "title":        "DataCue in text tracks"
+    ,   "rationale":    "W3C HTML support the DataCue object, the WHATWG feels that is not needed."
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No sidebar links in W3C HTML"
+    ,   "rationale":    "W3C HTML has no link relationship sidebar as it is considered anecdotal and poor design; WHATWG includes it for completion."
+    ,   "type":         "val"
+    ,   "link":         "https://www.w3.org/Bugs/Public/show_bug.cgi?id=11183"
+    }
+,   {
+        "title":        "No external links in W3C HTML"
+    ,   "rationale":    "W3C HTML has its link relationship external in the wiki instead of specification as it is considered underspecified; WHATWG includes it for completion."
+    ,   "type":         "val"
+    ,   "link":         "http://www.w3.org/Bugs/Public/show_bug.cgi?id=11181"
+    }
+,   {
+        "title":        "No pingback links in W3C HTML"
+    ,   "rationale":    "W3C HTML has its link relationship pingback in the wiki instead of specification as it is considered underspecified; WHATWG includes it for completion."
+    ,   "type":         "val"
+    ,   "link":         "http://www.w3.org/Bugs/Public/show_bug.cgi?id=12224"
+    }
+,   {
+        "title":        "W3C HTML warns against links in labels"
+    ,   "rationale":    "WHATWG has not at this time deemed this change necessary."
+    ,   "type":         "auth"
+    ,   "link":         "https://www.w3.org/Bugs/Public/show_bug.cgi?id=24278"
+    }
+,   {
+        "title":        "W3C HTML advises against using solely @title to describe @pattern"
+    ,   "rationale":    "a11y"
+    ,   "type":         "auth"
+    }
+,   {
+        "title":        "W3C HTML warns more strongly about using @placeholder for labelling"
+    ,   "rationale":    "WHATWG has not deemed this change necessary."
+    ,   "type":         "auth"
+    }
+,   {
+        "title":        "W3C HTML does not recommend using CSS to hide the focus ring"
+    ,   "rationale":    "a11y"
+    ,   "type":         "auth"
+    }
+,   {
+        "title":        "W3C HTML applies unicode-bidi: plaintext to input elements"
+    ,   "rationale":    "WHATWG has not deemed this necessary at this time."
+    ,   "type":         "ua"
+    }
+]
