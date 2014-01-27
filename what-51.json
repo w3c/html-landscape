@@ -58,7 +58,7 @@
     ,   "link":         "http://www.w3.org/html/wg/wiki/User:Sfaulkne/main-usecases"
     }
 ,   {
-        "title":        "W3C HTML defines the body element as representing the 'content of a document'"
+        "title":        "W3C HTML defines the body element as representing the 'content of a document', WHATWG HTML does not."
     ,   "rationale":    "W3C HTML defines main as representing the 'main content' of a document."
     ,   "type":         "auth"
     }
