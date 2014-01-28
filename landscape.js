@@ -9,7 +9,7 @@
         }
     ,   rationaleKey = {
             impl:   "Insufficient implementation experience at this point."
-        ,   a11y:   "People in the accessibility community feel this alternative is better."
+        ,   a11y:   "The HTML WG, in liasion with other W3C working groups, has decided this alternative is better"
         }
     ;
     function loadData (cb) {
