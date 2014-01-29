@@ -72,6 +72,8 @@
         "title":        "W3C HTML has a should on section headings"
     ,   "rationale":    "In WHATWG HTML section headings are considered typical but not required, in W3C HTML there's a 'should'."
     ,   "type":         "val"
+    ,   "link":         { "text": "Revisiting heading advice - HTML WG thread", 
+                          "url": "http://lists.w3.org/Archives/Public/public-html/2014Jan/thread.html#msg4"}
     }
 ,   {
         "title":        "W3C HTML suggests using lists in nav elements"
