@@ -52,6 +52,13 @@
                           "url": "http://www.w3.org/TR/html-longdesc/" }
     }
 ,   {
+        "title":        "W3C HTML tables SHOULD NOT be used for layout, in WHATWG MUST NOT."
+    ,   "rationale":    "Reflect unfortunate reality and provide advice on repair"
+    ,   "type":         "auth"
+    ,   "link":         { "text": "Working Group Decision on ISSUE-130: table-layout", 
+                          "url": "http://lists.w3.org/Archives/Public/public-html/2011Mar/0245.html" }
+    }
+,   {
         "title":        "The main element differs"
     ,   "rationale":    "The HTML WG believes that main is only meaningful if there is only one per page, WHATWG thinks it is meaningful to have several."
     ,   "type":         "val"
