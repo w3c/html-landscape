@@ -156,6 +156,8 @@
         "title":        "W3C HTML does not recommend using CSS to hide the focus ring"
     ,   "rationale":    "a11y"
     ,   "type":         "auth"
+    , "link": { "text": "inaccessible-example - HTML WG decision",
+                          "url": "http://lists.w3.org/Archives/Public/public-html/2012Mar/0786.html"}
     }
 ,   {
         "title":        "W3C HTML applies unicode-bidi: plaintext to input elements"
