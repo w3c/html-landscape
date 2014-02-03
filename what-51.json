@@ -78,7 +78,7 @@
     }
 ,   {
         "title":        "W3C HTML has a should on section headings"
-    ,   "rationale":    "In WHATWG HTML section headings are considered typical but not required, in W3C HTML there's a 'should'."
+    ,   "rationale":    "In WHATWG HTML section headings are considered typical but not required, in W3C HTML there's a 'should' as the HTML WG considers that it encourages better authoring practices."
     ,   "type":         "val"
     ,   "link":         { "text": "Revisiting heading advice - HTML WG thread", 
                           "url": "http://lists.w3.org/Archives/Public/public-html/2014Jan/thread.html#msg4"}
@@ -98,13 +98,13 @@
     }
 ,   {
         "title":        "WHATWG HTML recommends using h1 at all section ranks"
-    ,   "rationale":    "The HTML WG feels that this practice is problematic in practice."
+    ,   "rationale":    "The HTML WG considers that this practice is problematic in practice."
     ,   "type":         "auth"
     ,   "link":         "https://www.w3.org/Bugs/Public/show_bug.cgi?id=21881"
     }
 ,   {
         "title":        "Blockquote and cite differences"
-    ,   "rationale":    "The HTML WG feels that its usage of blockquote and cite match users' needs; the WHATWG feels it is the wrong design."
+    ,   "rationale":    "The HTML WG considers that its usage of blockquote and cite match users' needs; the WHATWG feels it is the wrong design."
     ,   "type":         "auth"
     ,   "link":         "https://www.w3.org/Bugs/Public/show_bug.cgi?id=23175"
     }
@@ -145,8 +145,10 @@
     }
 ,   {
         "title":        "W3C HTML advises against using solely @title to describe @pattern"
-    ,   "rationale":    "a11y"
+    ,   "rationale":    "The HTML WG cosniders that use of the @title only reduces the accessibility of content."
     ,   "type":         "auth"
+    ,   "link":         { "text": "Provide better advice on constraint validation instructions", 
+                          "url": "http://lists.w3.org/Archives/Public/public-html/2013Mar/0118.html" }
     }
 ,   {
         "title":        "W3C HTML warns more strongly about using @placeholder for labelling"
