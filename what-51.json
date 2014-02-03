@@ -84,8 +84,10 @@
     }
 ,   {
         "title":        "W3C HTML suggests using lists in nav elements"
-    ,   "rationale":    "The HTML WG considers that a list adds structure, the WHATWG finds this unnecessary."
+    ,   "rationale":    "The HTML WG considers that a list adds useful structure, the WHATWG finds this unnecessary."
     ,   "type":         "auth"
+    ,   "link":         { "text": "added note to nav element about use of list markup", 
+                          "url": "http://lists.w3.org/Archives/Public/public-html/2013Feb/0114.html"}
     }
 ,   {
         "title":        "W3C HTML recommends against using hN for subheadings"
