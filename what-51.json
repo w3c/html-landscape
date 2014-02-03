@@ -111,7 +111,7 @@
         "title":        "Different advice for image alternative text"
     ,   "rationale":    "a11y"
     ,   "type":         "auth"
-    ,   "link":         "http://dev.w3.org/html5/alt-techniques/"
+    ,   "link":         "http://www.w3.org/html/wg/drafts/html/master/embedded-content-0.html#alt"
     }
 ,   {
         "title":        "DataCue in text tracks"
