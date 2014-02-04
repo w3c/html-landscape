@@ -118,6 +118,7 @@
         "title":        "DataCue in text tracks"
     ,   "rationale":    "W3C HTML support the DataCue object, the WHATWG feels that is not needed."
     ,   "type":         "ua"
+    ,   "link":         "https://www.w3.org/Bugs/Public/show_bug.cgi?id=21851"
     }
 ,   {
         "title":        "No sidebar links in W3C HTML"
