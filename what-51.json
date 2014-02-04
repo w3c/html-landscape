@@ -65,7 +65,7 @@
     ,   "link":         "http://www.w3.org/html/wg/wiki/User:Sfaulkne/main-usecases"
     }
 ,   {
-        "title":        "W3C HTML encourages implemnters to provide keyboard navigation to the main element, WHATWG does not"
+        "title":        "W3C HTML encourages implementers to provide keyboard navigation to the main element, WHATWG does not"
     ,   "rationale":    "The HTML WG considers that it would provide an alternative to 'skip to content' links (built in versus bolt on)."
     ,   "type":         "ua"
     ,   "link":         "http://lists.w3.org/Archives/Public/public-html/2012Oct/0109.html"
