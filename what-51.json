@@ -10,6 +10,7 @@
         "title":        "URL allowed in link@rel in W3C HTML"
     ,   "rationale":    "W3C has a tradition of using URLs as extensibility points."
     ,   "type":         "val"
+    ,   "link":         "http://www.w3.org/html/wg/tracker/issues/170"
     }
 ,   {
         "title":        "Disagreement as to how the term \"conforming document\" can be used in cases where \"applicable specifications\" augment or change the base HTML5"
