@@ -90,7 +90,7 @@
     ,   "link":         "http://lists.w3.org/Archives/Public/public-html/2011Apr/0377.html"
     }
 ,   {
-        "title":        "W3C HTML has a should on section headings"
+        "title":        "W3C HTML has a SHOULD on section headings"
     ,   "rationale":    "In WHATWG HTML section headings are considered typical but not required, in W3C HTML there's a 'should' as the HTML WG considers that it encourages better authoring practices."
     ,   "type":         "val"
     ,   "link":         { "text": "Revisiting heading advice - HTML WG thread", 
