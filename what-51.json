@@ -34,6 +34,13 @@
     ,   "rationale":    "a11y"
     ,   "type":         "val"
     }
+    ,   {
+        "title":        "W3C HTML has different ARIA implementation requirements for header and footer elements"
+    ,   "rationale":    "Match implementations and improve interoperability."
+    ,   "type":         "ua"
+    ,   "link":         { "text": "bug: modify header and footer aria info", 
+                          "url": "https://www.w3.org/Bugs/Public/show_bug.cgi?id=21866" }
+    }
 ,   {
         "title":        "Looser MetaExtensions and microformats wikis requirements in W3C HTML"
     ,   "rationale":    "In W3C HTML supporting values from those wikis is a may not a must."
