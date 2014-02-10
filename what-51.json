@@ -182,5 +182,10 @@
     ,   "rationale":    "WHATWG has not deemed this necessary at this time."
     ,   "type":         "ua"
     }
+    ,   {
+        "title":        "W3C HTML has a SHOULD requirement on indication of link type 'license' scope in text, a    differing code example taking using the main element."
+    ,   "rationale":    "a11y"
+    ,   "type":         "auth"
+    }
 
 ]
