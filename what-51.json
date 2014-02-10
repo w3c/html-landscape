@@ -182,11 +182,12 @@
     ,   "rationale":    "WHATWG has not deemed this necessary at this time."
     ,   "type":         "ua"
     }
-    ,   {
-        "title":        "W3C HTML has a SHOULD requirement on indication of link type 'license' scope in text, a    differing code example taking using the main element."
-    ,   "rationale":    "a11y"
+,   {
+        "title":        "W3C HTML has a SHOULD requirement on indication of link type 'license' scope in text and a different code example using the main element."
+    ,   "rationale":    "Remove contradiction and improve accessibility."
     ,   "type":         "auth"
-    ,   "link":         "https://github.com/w3c/html/commit/14889a3e361ce468f04197d00a203e5302d3ec41"
+    , "link": { "text": "removed contradiction in Link type 'license'",
+                          "url": "https://github.com/w3c/html/commit/14889a3e361ce468f04197d00a203e5302d3ec4"}
     }
 
 ]
