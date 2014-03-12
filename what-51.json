@@ -160,9 +160,9 @@
     }
 ,   {
         "title":        "W3C HTML advises against using solely @title to describe @pattern"
-    ,   "rationale":    "The HTML WG cosniders that use of the @title only reduces the accessibility of content."
+    ,   "rationale":    "The HTML WG considers that use of the @title only reduces the accessibility of content."
     ,   "type":         "auth"
-    ,   "link":         { "text": "Provide better advice on constraint validation instructions", 
+    ,   "link":         { "text": "Provide better advice on constraint validation instructions",
                           "url": "http://lists.w3.org/Archives/Public/public-html/2013Mar/0118.html" }
     }
 ,   {
