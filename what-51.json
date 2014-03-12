@@ -189,5 +189,19 @@
     , "link": { "text": "removed contradiction in Link type 'license'",
                           "url": "https://github.com/w3c/html/commit/14889a3e361ce468f04197d00a203e5302d3ec4"}
     }
-
+,   {
+        "title":        "W3C HTML has a \"health warning\" about conversions to/from incremental time"
+    ,   "rationale":    "WHATWG has not deemed this necessary at this time."
+    ,   "type":         "auth"
+    }
+,   {
+        "title":        "W3C HTML have \"local\" date terminology renamed to \"floating\""
+    ,   "rationale":    "WHATWG has not deemed this necessary at this time."
+    ,   "type":         "auth"
+    }
+,   {
+        "title":        "W3C HTML has dropped <input type=datetime-local>"
+    ,   "rationale":    "WHATWG has not deemed this necessary at this time."
+    ,   "type":         "ua"
+    }
 ]
