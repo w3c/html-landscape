@@ -64,4 +64,49 @@
     ,   "rationale":    "impl"
     ,   "type":         "ua"
     }
+,   {
+        "title":        "No details and summary elements in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No dialog element in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No :dir() pseudoclass in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No seamless iframes in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No isContentHandlerRegistered() and isProtocolHandlerRegistered() methods in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No input types datetime, datetime-local, week, month in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No reportValidity() method in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No scoped style in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
+,   {
+        "title":        "No XMLDocument interface in W3C HTML 5.0"
+    ,   "rationale":    "impl"
+    ,   "type":         "ua"
+    }
 ]
