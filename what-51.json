@@ -1,12 +1,5 @@
 [
     {
-        "title":        "No srcset attribute in W3C HTML"
-    ,   "rationale":    "Discussion is still ongoing about responsive image solutions."
-    ,   "type":         "ua"
-    ,   "link":         { "text": "Extension specification on the way", 
-                          "url": "http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/" }
-    }
-,   {
         "title":        "URL allowed in link@rel in W3C HTML"
     ,   "rationale":    "W3C has a tradition of using URLs as extensibility points."
     ,   "type":         "val"

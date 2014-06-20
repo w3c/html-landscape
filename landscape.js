@@ -9,6 +9,7 @@
         }
     ,   rationaleKey = {
             impl:   "Insufficient implementation experience at this point."
+        ,   "new":  "Introduced after feature freeze"
         ,   a11y:   "The HTML WG, in liasion with other W3C working groups, has decided this alternative is better"
         }
     ;

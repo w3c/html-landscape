@@ -109,4 +109,9 @@
     ,   "rationale":    "impl"
     ,   "type":         "ua"
     }
+,   {
+        "title":        "No picture element and srcset attribute in W3C HTML 5.0"
+    ,   "rationale":    "new"
+    ,   "type":         "ua"
+    }
 ]
